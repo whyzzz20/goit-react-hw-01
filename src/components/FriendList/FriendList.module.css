@@ -1,0 +1,14 @@
+.friendBoxTitle {
+  font-size: 32px;
+  font-weight: 500;
+}
+.friendBoxList {
+  display: flex;
+  gap: 12px;
+}
+.friendBoxItem {
+  width: 70px;
+  border: 2px solid rgb(24, 23, 23);
+  padding: 10px;
+  border-radius: 10px;
+}

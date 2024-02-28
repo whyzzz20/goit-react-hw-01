@@ -1,0 +1,18 @@
+.friendsItem {
+  text-align: center;
+}
+.friendsItemImg {
+  display: inline;
+  width: 70px;
+}
+.friendsItemName {
+  margin-top: 10px;
+  font-size: 18px;
+  font-weight: 600;
+}
+.statusIsOn {
+  color: green;
+}
+.statusIsOff {
+  color: red;
+}

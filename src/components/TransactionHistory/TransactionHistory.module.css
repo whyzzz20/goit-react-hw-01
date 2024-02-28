@@ -1,0 +1,26 @@
+.tableOfTransaction {
+  width: 800px;
+  border-collapse: collapse;
+}
+.titleTableRow {
+  color: white;
+  font-size: 24px;
+  width: calc(100% / 3);
+  border: 1px solid black;
+  padding: 8px;
+  text-align: center;
+  background-color: rgb(42, 41, 41);
+}
+.tableRow {
+  text-transform: capitalize;
+  color: black;
+  font-size: 24px;
+  border: 1px solid black;
+  padding-left: 70px;
+  text-align: start;
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+.tableRowItem:nth-child(even) {
+  background-color: rgb(214, 208, 208);
+}
